@@ -76,3 +76,5 @@ build/
 # Flutter version manager
 .fvm/
 .vscode/settings.json
+pubspec.lock
+example/pubspec.lock
